@@ -1,0 +1,21 @@
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.exe.config
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.exe
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\bin\Debug\ImageDownsizer.pdb
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csprojAssemblyReference.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.Form1.resources
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.Properties.Resources.resources
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csproj.GenerateResource.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.csproj.CoreCompileInputs.cache
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.exe
+E:\PROGRAMMS\C# programmes\ImageDownsizer\ImageDownsizer\obj\Debug\ImageDownsizer.pdb
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\bin\Debug\ImageDownsizer.exe.config
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\bin\Debug\ImageDownsizer.exe
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\bin\Debug\ImageDownsizer.pdb
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.Form1.resources
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.Properties.Resources.resources
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.exe
+C:\Users\ACER\Desktop\ImageDownsizer1-main\ImageDownsizer1-main\obj\Debug\ImageDownsizer.pdb
